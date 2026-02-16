@@ -1,5 +1,5 @@
 Exercise 1
-1. UML diagram attached in pdf
+UML diagram attached in pdf
 The one SOLID principle that must be guaranteed in the design is the Open/Closed
 Principle, which states that software entities should be open for extension but closed
 for modification. The problem description explicitly states that as the cloud
